@@ -1,3 +1,6 @@
+#problemas ao subir para o fork. 
+# Caso haja interesse, a solução completa está em https://github.com/eduardosiqueira2019/desafio-android2
+
 # Criar um aplicativo de consulta a API do [GitHub](https://github.com)#
 
 Criar um aplicativo para consultar a [API do GitHub](https://developer.github.com/v3/) e trazer os repositórios mais populares de Java. Basear-se no mockup fornecido:
